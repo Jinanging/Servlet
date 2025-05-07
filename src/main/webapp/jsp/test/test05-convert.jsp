@@ -21,7 +21,7 @@
 
 <div class="container mt-5">
     <div class="display-4">변환 결과</div>
-    <p><strong><%=centimeter %> cm</strong></p>
+    <div><%=centimeter %> cm</div>
     <hr>
 
 	<% 
