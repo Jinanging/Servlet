@@ -13,8 +13,10 @@
 		<h1>메뉴 검색</h1>
 		
 		<form method = "get" action = "/jsp/test/test07.jsp">
-			<input name = "search" class = "col-3 mr-2 my-2"  type = "text">
-			<label><input type = "checkbox" name = "check" value = "exception">4점 이하 제외</label><br>
+			<div class ="d-flex align-items-baseline">
+				<input name = "search" class = "col-3 mr-2 my-2 form-control"  type = "text">
+				<label><input type = "checkbox" name = "check" value = "exception">4점 이하 제외</label>
+			</div>
 			<button class = "btn btn-primary" type = "submit">검색</button>
 		</form>
 		
