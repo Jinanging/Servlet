@@ -55,8 +55,8 @@
 %>
 
 <div class = "col-10 container " id = "wrap">
-	<header  class ="d-flex align-items-center justify-content-center text-danger">
-		<h1>Sk broadband IPTV</h1>
+	<header  class ="d-flex align-items-center justify-content-center">
+		<h1><a class ="text-danger logo" href ="/jsp/test/test09/test09.jsp">Sk broadband IPTV</a></h1>
 	</header>
 	<nav  class = "main-menu pt-2 bg-danger ">
 		<ul class = "nav nav-fill">

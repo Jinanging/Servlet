@@ -20,3 +20,11 @@ header{
 footer{
 	height : 50px;
 }
+
+.logo:hover{
+	text-decoration: none;
+	
+}
+.logo:link{
+	color:red;
+}
