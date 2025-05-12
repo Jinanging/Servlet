@@ -1,0 +1,45 @@
+@charset "UTF-8";
+#wrap{
+	width : 1200px;
+	height : 1000px;
+	margin : 0 auto;
+}
+header{
+	height : 100px;
+}
+.logo{
+	width : 200px;
+	height : 100px;
+}
+.search{
+	width : 500px;
+	height : 100px;
+}
+nav{
+	height : 50px;
+	
+}
+section{
+	height : 600px;
+	
+}
+section > .singerInfo{
+	height : 200px;
+	
+}
+.singerInfo > .artistImage{
+	height: 200px;
+	width: 200px;
+}
+.singerInfo > .artistInfo{
+	height: 200px;
+	width: 1000px;
+}
+
+
+section > .singList{
+	height: 400px;
+}
+footer{
+	height : 100px
+}
